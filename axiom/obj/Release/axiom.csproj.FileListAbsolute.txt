@@ -1,0 +1,10 @@
+C:\Users\Serega\source\repos\axiom\axiom\bin\Release\axiom.exe.config
+C:\Users\Serega\source\repos\axiom\axiom\bin\Release\axiom.exe
+C:\Users\Serega\source\repos\axiom\axiom\bin\Release\axiom.pdb
+C:\Users\Serega\source\repos\axiom\axiom\obj\Release\axiom.Form1.resources
+C:\Users\Serega\source\repos\axiom\axiom\obj\Release\axiom.outputtext.resources
+C:\Users\Serega\source\repos\axiom\axiom\obj\Release\axiom.Properties.Resources.resources
+C:\Users\Serega\source\repos\axiom\axiom\obj\Release\axiom.csproj.GenerateResource.cache
+C:\Users\Serega\source\repos\axiom\axiom\obj\Release\axiom.csproj.CoreCompileInputs.cache
+C:\Users\Serega\source\repos\axiom\axiom\obj\Release\axiom.exe
+C:\Users\Serega\source\repos\axiom\axiom\obj\Release\axiom.pdb

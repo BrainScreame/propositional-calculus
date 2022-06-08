@@ -1,0 +1,22 @@
+C:\Users\Serega\source\repos\axiom\axiom\bin\Debug\axiom.exe.config
+C:\Users\Serega\source\repos\axiom\axiom\bin\Debug\axiom.exe
+C:\Users\Serega\source\repos\axiom\axiom\bin\Debug\axiom.pdb
+C:\Users\Serega\source\repos\axiom\axiom\obj\Debug\axiom.csprojAssemblyReference.cache
+C:\Users\Serega\source\repos\axiom\axiom\obj\Debug\axiom.Form1.resources
+C:\Users\Serega\source\repos\axiom\axiom\obj\Debug\axiom.Properties.Resources.resources
+C:\Users\Serega\source\repos\axiom\axiom\obj\Debug\axiom.csproj.GenerateResource.cache
+C:\Users\Serega\source\repos\axiom\axiom\obj\Debug\axiom.csproj.CoreCompileInputs.cache
+C:\Users\Serega\source\repos\axiom\axiom\obj\Debug\axiom.exe
+C:\Users\Serega\source\repos\axiom\axiom\obj\Debug\axiom.pdb
+C:\Users\Serega\source\repos\axiom\axiom\obj\Debug\axiom.outputtext.resources
+E:\intel ide\source\repos\axiom\axiom\bin\Debug\axiom.exe.config
+E:\intel ide\source\repos\axiom\axiom\bin\Debug\axiom.exe
+E:\intel ide\source\repos\axiom\axiom\bin\Debug\axiom.pdb
+E:\intel ide\source\repos\axiom\axiom\obj\Debug\axiom.csprojAssemblyReference.cache
+E:\intel ide\source\repos\axiom\axiom\obj\Debug\axiom.Form1.resources
+E:\intel ide\source\repos\axiom\axiom\obj\Debug\axiom.outputtext.resources
+E:\intel ide\source\repos\axiom\axiom\obj\Debug\axiom.Properties.Resources.resources
+E:\intel ide\source\repos\axiom\axiom\obj\Debug\axiom.csproj.GenerateResource.cache
+E:\intel ide\source\repos\axiom\axiom\obj\Debug\axiom.csproj.CoreCompileInputs.cache
+E:\intel ide\source\repos\axiom\axiom\obj\Debug\axiom.exe
+E:\intel ide\source\repos\axiom\axiom\obj\Debug\axiom.pdb
